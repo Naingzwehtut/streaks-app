@@ -1,4 +1,4 @@
-# 🔥 Streaks
+# Streaks
 
 A clean, offline-first habit tracker built with Flutter. Add habits, check them off each day, and watch your streaks grow.
 
